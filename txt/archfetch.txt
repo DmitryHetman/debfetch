@@ -1,0 +1,19 @@
+[1;36m                  -`                     dmitry[1;37m@[1;36mdebian
+[1;36m                 .o+`                    OS:[m Arch Linux
+[1;36m                `ooo/                    MotherBoard:[m X120-G.C7HDV
+ [1;36m              `+oooo:                   Kernel:[m Linux 5.8.0-1-686-pae
+[1;36m              `+oooooo:                  Clib:[m i686-linux-gnu
+[1;36m              -+oooooo+:                 GCC:[m n 10.2.0
+[1;36m            `/:-:++oooo+:                Graphic Environment:[m Framebuffer
+[1;36m           `/++++/+++++++:               Terminal:[m tmux
+[1;36m          `/++++++++++++++:              Shell:[m /bin/mksh
+[1;36m         `/+++o[0m[36moooooooo[0m[1;36moooo/             Packages:[m 0
+[1;36m        [0m[1;36m./[0m[36mooosssso++osssssso[0m[1;36m+`           Root:[m 30G/36G ext4
+[36m       .oossssso-````/ossssss+`          [1;36mUptime:[m 0d,0h,48m
+[36m      -osssssso.      :ssssssso.         [1;36mProcesses:[m 108
+[36m     :osssssss/        osssso+++.        [1;36mRAM:[m 344MiB/991MiB
+[36m    /ossssssss/        +ssssooo/         [1;36mCPU:[m Intel(R) Atom(TM) CPU N270   @ 1.60GHz
+[36m   `/ossssso+/:-       -:/+osssso+-      [1;36mGPU:[m Intel HD Graphics 4600
+[36m  `+sso+:-`                `.-/+oso:     [1;36mResolution:[m 1024x576
+[36m `++:.                          `-/+/    [1;36mSound Card:[m ult:CARD=Inte
+[36m .`                                `/[0m 

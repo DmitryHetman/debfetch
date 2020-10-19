@@ -1,0 +1,18 @@
+[1;35m         -/oyddmdhs+:.[1;35m              dmitry[1;37m@[1;35mdebian
+[1;35m     -o[1;37mdNMMMMMMMMNNmhy+[1;35m-`           OS:[m Gentoo stable
+[1;35m   -y[1;37mNMMMMMMMMMMMNNNmmdhyb[1;35m+-        Profile:[m hardened 
+[1;35m `o[1;37mmMMMMMMMMMMMMNmdmmmmddhhy[1;35m/`      Kernel:[m Linux 5.8.0-1-686-pae
+[1;35m om[1;37mMMMMMMMMMMMN[1;35mhhyyyo[1;37mhmdddhhhd[1;35mo`    Clib:[m i686-linux-gnu
+[1;35m.y[1;37mdMMMMMMMMMMd[1;35mhs++so/s[1;37mmdddhhhhdm[1;35m+`  GCC:[m Debian 10.2.0-9) 
+[1;35m oy[1;37mhdmNMMMMMMMN[1;35mdyooy[1;37mdmddddhhhhyhN[1;35md. Graphic Environment:[m Framebuffer
+[1;35m  :o[1;37myhhdNNMMMMMMMNNNmmdddhhhhhyym[1;35mMh Terminal:[m tmux
+[1;35m    .:[1;37m+sydNMMMMMNNNmmmdddhhhhhhmM[1;35mmy Shell:[m /bin/mksh
+[1;35m       /m[1;37mMMMMMMNNNmmmdddhhhhhmMNh[1;35ms: Packages:[m 0
+[1;35m    `o[1;37mNMMMMMMMNNNmmmddddhhdmMNhs[1;35m+`  Root:[m 30G/36G ext4
+[1;35m  `s[1;37mNMMMMMMMMNNNmmmdddddmNMmhs[1;35m/.    Uptime:[m 0d,0h,47m
+[1;35m /N[1;37mMMMMMMMMNNNNmmmdddmNMNdso[1;35m:`      Processes:[m 108
+[1;35m+M[1;37mMMMMMMNNNNNmmmmdmNMNdso[1;35m/-         RAM:[m 344MiB/991MiB
+[1;35myM[1;37mMNNNNNNNmmmmmNNMmhs+/[1;35m-`           CPU:[m Intel(R) Atom(TM) CPU N270   @ 1.60GHz
+[1;35m/h[1;37mMMNNNNNNNNMNdhs++/[1;35m-`              GPU:[m Intel HD Graphics 4600
+[1;35m`/[1;37mohdmmddhys+++/:[1;35m.`                 Resolution:[m 1024x576
+[1;35m  `-//////:--.                      Sound Card:[m ult:CARD=Inte

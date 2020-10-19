@@ -1,0 +1,19 @@
+[1;34m           /:-------------:          dmitry[1;37m@[1;34mdebian
+[1;34m        :-------------------::       OS:[m Fedora
+[1;34m      :-----------[1;37m/shhOHbmp[1;34m---:      MotherBoard:[m X120-G.C7HDV
+[1;34m    /-----------[1;37momMMMNNNMMD  [1;34m---:    Kernel:[m Linux 5.8.0-1-686-pae
+[1;34m   :-----------[1;37msMMMMNMNMP[1;34m.    ---:   Clib:[m glibc 
+[1;34m  :-----------[1;37m:MMMdP[1;34m-------    ---   GCC:[m n 10.2.
+[1;34m ,------------[1;37m:MMMd[1;34m--------    ---:  Graphic Environment:[m Wayland
+[1;34m :------------[1;37m:MMMd[1;34m-------    .---:  Terminal:[m tmux
+[1;34m :----    [1;37moNMMMMMMMMMNho[1;34m     .----:  Shell:[m /bin/mksh
+[1;34m :--     .[1;37m+shhhMMMmhhy++[1;34m   .------/  Packages:[m 0
+[1;34m :-    -------[1;37m:MMMd[1;34m--------------:   Root:[m 30G/36G ext4
+[1;34m :-   --------[1;37m/MMMd[1;34m-------------;    Uptime:[m 0d,0h,44m
+[1;34m :-    ------[1;37m/hMMMy[1;34m------------:     Processes:[m 108
+[1;34m :--[1;37m :dMNdhhdNMMNo[1;34m------------;      RAM:[m 342MiB/991MiB
+[1;34m :---[1;37m:sdNMMMMNds:[1;34m------------:       CPU:[m Intel(R) Atom(TM) CPU N270   @ 1.60GHz
+[1;34m :------[1;37m:://:[1;34m-------------::         GPU:[m Intel HD Graphics 4600
+[1;34m :---------------------://           Resolution:[m 1024x576
+
+[1;34m                                     Sound Card:[m ult:CARD=Inte
