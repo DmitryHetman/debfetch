@@ -7,7 +7,7 @@ To dowload archfetch type in your terminal:
 # git clone -b master --depth 1 https://github.com/DmitryHetman/debfetch
 GPU detection still doesn't work, you can just edit source code to 
 substitute Intel HD with your GPU model:
-# $ sandy gentoofetch.c
+# $ sandy debfetch.c
 To run archfetch you must compile and install it:
 # $ make
 # (root) # make install
