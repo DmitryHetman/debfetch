@@ -1,6 +1,6 @@
 # debfetch
 Screenshot information tool for Debian GNU/Linux, written in C, it is fork of archfetch.
-![archfetch](https://user-images.githubusercontent.com/18743742/61969548-5244b580-afca-11e9-93fe-3d47501661d6.png)
+![debfetch](https://user-images.githubusercontent.com/18743742/96940467-560e0300-14bf-11eb-822d-5225a7e3244f.png)
 It contains ASCII characrers, so no Unicode required.
 To dowload archfetch type in your terminal:
 # git clone -b master --depth 1 https://github.com/DmitryHetman/debfetch
